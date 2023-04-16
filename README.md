@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YEDOTI MAHESH</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU>
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/YYW0hHizzIOrlhimPG/200w.gif?cid=82a1493btnzcorceb9fwehdyqbparswxc79rbdh4g9oce7i2&rid=200w.gif&ct=gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yedotimahesh&label=Profile%20views&color=0e75b6&style=flat" alt="yedotimahesh" /> </p>
 
