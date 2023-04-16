@@ -1,25 +1,71 @@
-<h1 align="center">Hi 👋, I'm YEDOTI MAHESH</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/YYW0hHizzIOrlhimPG/200w.gif?cid=82a1493btnzcorceb9fwehdyqbparswxc79rbdh4g9oce7i2&rid=200w.gif&ct=gif">
+<h3 align="left">Hi 👋!YEDOTI MAHESH
+A passionate Software Engineer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yedotimahesh&label=Profile%20views&color=0e75b6&style=flat" alt="yedotimahesh" /> </p>
+###
 
-- 🌱 I’m currently learning **Tableau,R programming**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=amanavi75" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=amanavi75" height="150" alt="languages graph"  />
+</div>
 
-- 📫 How to reach me **ymaheshyedhoti@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahesh-yedhoti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahesh-yedhoti/" height="30" width="40" /></a>
-<a href="https://instagram.com/__mahi__tarak__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mahi__tarak__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ymaheshyedhoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ymaheshyedhoti" height="30" width="40" /></a>
-</p>
+<img align="right" height="209" src="https://th.bing.com/th/id/R.74b97fc94c3fb519384461a3046e2e4a?rik=c6olcDfQ4uRo6g&riu=http%3a%2f%2fbestanimations.com%2fMusic%2fDancers%2fanime-dancing-girls%2fanime-dancing-girl-16.gif&ehk=bzC%2b108Wxga30TrCcsQBMb6A5AX9SZhkTKDf9SvT0aU%3d&risl=&pid=ImgRaw&r=0"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yedotimahesh&show_icons=true&locale=en&layout=compact" alt="yedotimahesh" /></p>
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="42" alt="r logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yedotimahesh&show_icons=true&locale=en" alt="yedotimahesh" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yedotimahesh&" alt="yedotimahesh" /></p>
+<div align="left">
+  <a href="https://www.instagram.com/_mahi_tarak_/"?hl=en" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://myaccount.google.com/u/1/?hl=en_GB&utm_source=OGB&utm_medium=act" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mahesh-yedhoti/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/YEDHOTIMAHESH" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/ymaheshyedhoti" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://outlook.office365.com/mail/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/amanavi75/count.svg?"  />
+</div>
+
+###
+
+<h4 align="left">🪢 Hey! guys i am a 3rd year student , currently pursuing Btech Cse in Lovely proffesional university .<br><br>✍🏽currently i am learning reactjs , wordpress and data analysis using tableau desktop and R programming <br><br>✌🏽I am good at initiating new ideas and also in driving those ideas.</h4>
+
+###
+
+<img align="left" height="240" src="https://www.volusion.com/assets/images/custom-coding.png"  />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png"  />
+</div>
+
+###
