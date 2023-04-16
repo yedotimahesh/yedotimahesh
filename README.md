@@ -10,7 +10,7 @@ A passionate Software Engineer from India.</h3>
 
 ###
 
-<img align="right" height="209" src="https://th.bing.com/th/id/R.74b97fc94c3fb519384461a3046e2e4a?rik=c6olcDfQ4uRo6g&riu=http%3a%2f%2fbestanimations.com%2fMusic%2fDancers%2fanime-dancing-girls%2fanime-dancing-girl-16.gif&ehk=bzC%2b108Wxga30TrCcsQBMb6A5AX9SZhkTKDf9SvT0aU%3d&risl=&pid=ImgRaw&r=0"  />
+
 
 ###
 
@@ -60,7 +60,7 @@ A passionate Software Engineer from India.</h3>
 
 ###
 
-<img align="left" height="240" src="https://www.volusion.com/assets/images/custom-coding.png"  />
+
 
 ###
 
